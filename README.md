@@ -1,2 +1,2 @@
-# hello-wrolde
+# hello-world
 Just another repository
